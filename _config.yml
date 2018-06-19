@@ -1,6 +1,5 @@
 # Site settings
 title: Jasen Kundalic
-twitter_username: rob_hinds
 name: Jasen Kundalic
 
 # Build settings
@@ -31,13 +30,18 @@ roles:
  - title: Istraživač
    start: 2013
    end: 2016
-   employer: Medicinski fakultet Nis
+   employer: Medicinski fakultet Niš
+   
+ - title: Istraživač saradnik na projektima
+   start: 2017
+   end: 2018
+   employer: Univerzitet u Nišu
 
 #Education is required
 education:
  - level: Doktor stomatologije
    date: 2011
-   school: Medicinski fakultet Nis
+   school: Medicinski fakultet Niš
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
