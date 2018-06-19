@@ -31,10 +31,10 @@ blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
 
 #Work experience is required
 roles:
- - radno mesto: Istraživač
-   početak: 2013
-   kraj: 2016
-   poslodavac: Medicinski fakultet Nis
+ - title: Istraživač
+   start: 2013
+   end: 2016
+   employer: Medicinski fakultet Nis
 
 #Education is required
 education:
